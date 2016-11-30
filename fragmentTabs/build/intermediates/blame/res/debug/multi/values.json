@@ -1,0 +1,340 @@
+[
+    {
+        "outputFile": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 52,
+                        "endOffset": 157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 49,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 49,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 44,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 44,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 56,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 311,
+                        "endColumn": 56,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 47,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 263,
+                        "endColumn": 47,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 422,
+                    "endColumn": 69,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\exploded-aar\\FragmentTabs\\dragNDropList\\unspecified\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 69,
+                        "endOffset": 171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 52,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 52,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 545,
+                    "endColumn": 45,
+                    "endOffset": 586
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 45,
+                        "endOffset": 258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 591,
+                    "endColumn": 48,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 48,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 42,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 42,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 970
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 975,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1130
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 583,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1135,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1297
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1302,
+                    "endLine": 31,
+                    "endColumn": 13,
+                    "endOffset": 1507
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 5,
+                        "startOffset": 1079,
+                        "endLine": 32,
+                        "endColumn": 13,
+                        "endOffset": 1287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1512,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 1660
+                },
+                "from": {
+                    "file": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 898
+                    }
+                }
+            }
+        ]
+    }
+]

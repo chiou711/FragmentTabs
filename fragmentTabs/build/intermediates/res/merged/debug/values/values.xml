@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">FragmentTabs</string>
+    <string name="check_done">check</string>
+    <string name="config_name">UI Configuration</string>
+    <string name="delete_fragment">Pop</string>
+    <string name="hello">Hello World, DragNDropListActivity!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_fragment">Push</string>
+    <string name="note_handler">handler</string>
+    <string name="note_text">text</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="CustomTabWidget" parent="@android:style/Widget.TabWidget">
+        <item name="android:textAppearance">@style/CustomTabWidgetText</item>
+    </style>
+    <style name="CustomTabWidgetText" parent="@android:style/TextAppearance.Widget.TabWidget">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+     </style>
+    <style name="CustomTheme" parent="@android:style/Theme.Holo">
+        <item name="android:tabWidgetStyle">@style/CustomTabWidget</item>
+    </style>
+</resources>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\exploded-aar\\FragmentTabs\\dragNDropList\\unspecified\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\layout\\config.xml",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\layout\\config.xml"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\layout\\select_item.xml",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\layout\\select_item.xml"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

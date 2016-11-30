@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_square_overlay_pressed.png",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\drawable-mdpi\\btn_square_overlay_pressed.png"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\settings.png",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_square_unsel.png",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\drawable-mdpi\\btn_square_unsel.png"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_check_on.png",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\drawable-mdpi\\btn_check_on.png"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_check_off_selected.png",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\drawable-mdpi\\btn_check_off_selected.png"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher2.png",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\drawable-mdpi\\ic_launcher2.png"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\btn_square_sel.png",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\drawable-mdpi\\btn_square_sel.png"
+    },
+    {
+        "merged": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\add_new.png",
+        "source": "G:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\src\\main\\res\\drawable-mdpi\\add_new.png"
+    }
+]

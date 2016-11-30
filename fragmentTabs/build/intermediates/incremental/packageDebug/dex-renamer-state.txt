@@ -1,0 +1,7 @@
+#Thu Dec 01 00:16:19 CST 2016
+base.0=G\:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3ff636d4070b2845421531692614418d82979ac4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=G\:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_67017033877fee4cde4003f15dd976b208d2529a\\classes.dex
+base.1=G\:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_67017033877fee4cde4003f15dd976b208d2529a
+file.0=G\:\\Temp\\Month11\\FragmentTabs\\fragmentTabs\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3ff636d4070b2845421531692614418d82979ac4\\classes.dex

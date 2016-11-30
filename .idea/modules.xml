@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FragmentTabs.iml" filepath="$PROJECT_DIR$/FragmentTabs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragNDropList/dragNDropList.iml" filepath="$PROJECT_DIR$/dragNDropList/dragNDropList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentTabs/fragmentTabs.iml" filepath="$PROJECT_DIR$/fragmentTabs/fragmentTabs.iml" />
+    </modules>
+  </component>
+</project>

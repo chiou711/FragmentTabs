@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\Temp\Month11\FragmentTabs\fragmentTabs\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f32bd5923e6c0851173b6e1aef36572e65dbd141">
+        <dex dex="G:\Temp\Month11\FragmentTabs\fragmentTabs\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_67017033877fee4cde4003f15dd976b208d2529a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\Temp\Month11\FragmentTabs\fragmentTabs\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82860b2ca4b4c9166e0460fbe6eab26d081712e8">
+        <dex dex="G:\Temp\Month11\FragmentTabs\fragmentTabs\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3ff636d4070b2845421531692614418d82979ac4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cw\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="G:\Temp\Month11\FragmentTabs\fragmentTabs\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_528a6bd296a5c510cc483175b7870cd82160e325\classes.dex" />
+    </item>
+
+</items>
